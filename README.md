@@ -6,6 +6,9 @@
 
 🎯 Practicing CTFs and real-world pentesting techniques
 
+
 📡 Contact
+
 💬 Ask me about Linux, hacking, or random tech stuff
+
 📫 Reach me through GitHub or smoke signals
